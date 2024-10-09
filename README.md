@@ -9,6 +9,7 @@ Report contains measures (with conditional formatting), filteres & parameters wr
 ![image](https://github.com/user-attachments/assets/b97f0464-09fd-4595-b7b3-324375804b4b)
 
 Time intelligence calculation item example:
+
 VAR WCZORAJ = today() - 1 
 RETURN
 CALCULATE (
