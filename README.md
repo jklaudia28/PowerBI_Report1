@@ -1,4 +1,4 @@
-# PowerBI_Report1
+# PowerBI_Report1 - Stores
 Power BI report is based on my own data from xlsx files.
 It contains three sheets:
 1) Sales overview
